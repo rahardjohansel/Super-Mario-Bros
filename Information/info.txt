@@ -1,0 +1,18 @@
+Super Mario Bros
+
+Super Mario Bros is a classic Mario Game
+
+How to play:
+
+A,D to move left and right
+
+Spacebar to jump
+
+
+Developers:
+
+Edwin Lau Mack, Raymond Anggono
+
+Limas Nursalim, Hansel Rahardjo
+
+Fall 2019

@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Final Super Mario.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+Source.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::Music::~Music(void)" (__imp_??1Music@sf@@UAE@XZ)
+MarioBros.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::SoundSource::setVolume(float)" (__imp_?setVolume@SoundSource@sf@@QAEXM@Z)
+MarioBros.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Music::openFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?openFromFile@Music@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+MarioBros.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Music::Music(void)" (__imp_??0Music@sf@@QAE@XZ)
+C:\Users\edwin\OneDrive\Desktop\Pasadena City College\Computer Science 3A\Dave Smith\Projects\Final Super Mario\Release\FinalSuperMario.exe : fatal error LNK1120: 4 unresolved externals
